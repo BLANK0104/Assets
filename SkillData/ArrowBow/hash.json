@@ -6,10 +6,12 @@
         "blend_vb": "",
         "texcoord_vb": "",
         "ib": "7b8c754b",
-        "object_indexes": [
+        "object_indexes": 
+        [
             0
         ],
-        "object_classifications": [
+        "object_classifications":
+        [
             "Head"
         ],
         "texture_hashes": [
